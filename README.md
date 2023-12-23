@@ -1,12 +1,13 @@
 # PARK JUNG WOOK 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjungwook02&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjungwook02&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)</br>
 
 #  📖Education📖</br>
-🏫 삼육대학교 컴퓨터 공학과 22학번🏫</br>
+🏫 삼육대학교 컴퓨터 공학과 22학번 🏫</br>
 
-🦁 멋쟁이 사자처럼 10기 백엔드🦁 </br>
-🦁 멋쟁이 사자처럼 11기 백엔드 운영진🦁
+🦁       멋쟁이 사자처럼 10기 백엔드    🦁 </br>
+
+🦁 멋쟁이 사자처럼 11기 백엔드 운영진🦁</br>
 
 
 
