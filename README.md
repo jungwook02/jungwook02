@@ -35,7 +35,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
 ![React](https://img.shields.io/badge/React-FF0000.svg?&style=for-the-badge&logo=React&logoColor=white)
-
+![Vue](https://img.shields.io/badge/Vue.svg?&style=for-the-badge&logo=React&logoColor=white)
 
 
 ### Tools
