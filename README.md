@@ -52,7 +52,7 @@
 ### 💬 W.A.D (What are you doin?)
 - **설명**: 개발 초보자를 위한 ChatGPT 기반 커뮤니티 사이트
 - **역할**: 2024-1 교내 SW 경진대회 "못난이사자들" 팀 백엔드 참여
-- **서비스 링크**: [🔗 W.A.D 바로가기](https://wad-uglylion-e5cf0llq1-no4hs-projects.vercel.app/)
+
 
 
 # 🏆 Awards
