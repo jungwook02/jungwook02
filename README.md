@@ -43,19 +43,19 @@
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
-### 🚀 Projects
+# 🚀 Projects
 
-#### 🦁 삼육대 멋사 12기 모집 페이지
+### 🦁 삼육대 멋사 12기 모집 페이지
 - **설명**: 삼육대 멋쟁이사자처럼 12기 아기사자(부원) 모집 페이지
 - **역할**: 2024-1 멋사 12기 운영진 (프론트)
 
-#### 💬 W.A.D (What are you doin?)
+### 💬 W.A.D (What are you doin?)
 - **설명**: 개발 초보자를 위한 ChatGPT 기반 커뮤니티 사이트
 - **역할**: 2024-1 교내 SW 경진대회 "못난이사자들" 팀 백엔드 참여
 - **서비스 링크**: [🔗 W.A.D 바로가기](https://wad-uglylion-e5cf0llq1-no4hs-projects.vercel.app/)
 
 
-### 🏆 Awards
+# 🏆 Awards
 <table align="left">
   <tr>
     <th>When</th>
