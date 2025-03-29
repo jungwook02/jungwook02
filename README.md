@@ -25,7 +25,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
 ![node.js](https://img.shields.io/badge/node.js-원하는색상코드.svg?&style=for-the-badge&logo=&logoColor=로고색상)
-![express](https://img.shields.io/badge/express-원하는색상코드.svg?&style=for-the-badge&logo=로고명&logoColor=로고색상)
 
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
