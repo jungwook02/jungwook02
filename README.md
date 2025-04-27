@@ -40,7 +40,6 @@
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
-![inteliJ]("https://img.shields.io/badge/intellij idea-000000.svg?&style=for-the-badge&logo=intellij idea&logoColor=white")
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
 
