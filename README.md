@@ -1,11 +1,5 @@
-<!-- 💡 깃허브 프로필 README 예시: 다크 테마 + 깔끔한 구조 -->
-
-<div align="center">
-
 # 🧑‍💻 PARK JUNG WOOK
-
-🚀 **Backend Developer** 🚀  
-💬 
+🚀 **Backend Developer**  
 
 ---
 
@@ -23,7 +17,6 @@
 ### 🖥️ Backend  
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
@@ -49,7 +42,7 @@
 ### 🦁 **삼육대 멋사 12기 모집 페이지**
 📅 **2024.03 ~ 2024.06**  
 💡 **설명:** 삼육대 멋쟁이사자처럼 12기 아기사자 모집용 페이지  
-🎯 **역할:** 프론트엔드 운영진으로 페이지 개발 및 유지보수
+🎯 **역할:** 프론트엔드 운영진으로 페이지 개발 및 유지보수  
 
 ---
 
@@ -68,8 +61,4 @@
 
 ---
 
----
-
-
-</div>
 
