@@ -5,10 +5,10 @@
 
 ## 📖 Education
 
-🎓 **삼육대학교 컴퓨터공학과 (22학번)**  
-🦁 **멋쟁이사자처럼 10기 백엔드**  
-🦁 **멋쟁이사자처럼 11기 백엔드 운영진**  
-🦁 **멋쟁이사자처럼 12기 프론트엔드 운영진**
+🎓 **Sahmyook University, Department of Computer Engineering (2022 ~)**  
+🦁 **LIKELION 10th, Backend**  
+🦁 **LIKELION 11th, Backend Team Manage**  
+🦁 **LIKELION 12th, Frontend Team Manage**
 
 ---
 
